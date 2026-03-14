@@ -1,0 +1,19 @@
+.profile-page {
+  .p-card {
+    height: 100%;
+  }
+
+  .p-tabview {
+    .p-tabview-nav {
+      border-bottom: 1px solid #e5e7eb;
+    }
+
+    .p-tabview-panels {
+      padding: 1.5rem 0;
+    }
+  }
+
+  .field {
+    margin-bottom: 1rem;
+  }
+}
